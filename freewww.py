@@ -1,9 +1,9 @@
 #coding=utf8
 import requests,re,time
 
-username = '面板用户'
-password = '面板密码' 
-ID = '机器ID'
+username = 'qupb'
+password = '3pPhUu2wp8nn' 
+ID = '399'
 check = 'vm'
 restart = 'vm.restart'
 
