@@ -1,8 +1,8 @@
 #coding=utf8
 import requests,re,time
 
-username = 'qupb'
-password = '3pPhUu2wp8nn' 
+username = '用户名'
+password = '密码' 
 ID = '399'
 check = 'vm'
 restart = 'vm.restart'
